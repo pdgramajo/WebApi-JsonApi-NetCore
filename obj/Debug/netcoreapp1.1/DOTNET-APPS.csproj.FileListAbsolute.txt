@@ -1,0 +1,8 @@
+F:\DOTNET-APPS\bin\Debug\netcoreapp1.1\DOTNET-APPS.deps.json
+F:\DOTNET-APPS\bin\Debug\netcoreapp1.1\DOTNET-APPS.runtimeconfig.json
+F:\DOTNET-APPS\bin\Debug\netcoreapp1.1\DOTNET-APPS.runtimeconfig.dev.json
+F:\DOTNET-APPS\bin\Debug\netcoreapp1.1\DOTNET-APPS.dll
+F:\DOTNET-APPS\bin\Debug\netcoreapp1.1\DOTNET-APPS.pdb
+F:\DOTNET-APPS\obj\Debug\netcoreapp1.1\DOTNET-APPS.AssemblyInfo.cs
+F:\DOTNET-APPS\obj\Debug\netcoreapp1.1\DOTNET-APPS.dll
+F:\DOTNET-APPS\obj\Debug\netcoreapp1.1\DOTNET-APPS.pdb
